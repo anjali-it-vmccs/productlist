@@ -20,9 +20,9 @@
         "Naturally Derived Gum",
         "Coconut Based Surfactant"
       ],
-      "category":[
+      "category":
        " Homecare"
-      ]
+    
     },
     {
       "name": "Face Wash",
@@ -43,9 +43,9 @@
         "Coconut Based Surfactant",
         "Gondkatira"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Hand Sanitizer",
@@ -63,9 +63,9 @@
         "Aloevera",
         "Neem Bio Enzyme"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Body Wash",
@@ -87,9 +87,9 @@
         "Multani Mitti",
         "Natural Foaming Agent"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Facial Serum",
@@ -113,9 +113,9 @@
         "Alovera Bio Enzymes",
         "Rice Water"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Shampoo",
@@ -140,9 +140,9 @@
         "Plant-based Surfactant",
         "Multani Mitti"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Roll On",
@@ -159,9 +159,9 @@
         "Kapoor",
         "Mint"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Toilet Cleaner",
@@ -180,9 +180,9 @@
         "Natural Citronella",
         "Natural Coco Glucoside"
       ],
-      "category":[
+      "category":
         " Homecare"
-       ]
+       
     },
     {
       "name": "Coco Soap",
@@ -200,9 +200,9 @@
         "Aloevera",
         "Papaya extract"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     },
     {
       "name": "Charcoal Soap",
@@ -220,9 +220,9 @@
         "Aloevera",
         "Papaya extract"
       ],
-      "category":[
+      "category":
         " Healthcare"
-       ]
+       
     }
   ]
 }
