@@ -1,228 +1,204 @@
-{
-  "products": [
-    {
-      "name": "Detergent Coco Wash",
-      "img" : "",
-      "benefits": [
-        "No Chemicals, Preservatives, or Artificial Fragrances.",
-        "Removes 99.9% of Pathogens.",
-        "Safe for Sensitive Skin.",
-        "Suitable for All Types of Clothes.",
-        "Safe for Us, Pets & Mother Earth.",
-        "Free of Sulfates, SLS, SLES, Dyes, Optical Brighteners, Parabens, Glycols, and phosphates.",
-        "Conserves Water.",
-        "Rejuvenates the Water Bodies."
-      ],
-      "ingredients": [
-        "Citrus",
-        "Neem",
-        "Soapnut Bio Enzyme",
-        "Naturally Derived Gum",
-        "Coconut Based Surfactant"
-      ],
-      "category":
-       " Homecare"
-    
-    },
-    {
-      "name": "Face Wash",
-      "img" : "",
-      "benefits": [
-        "Keeps skin bright.",
-        "Gives golden glow to complexion.",
-        "Bleaches the face naturally.",
-        "Reduces pigmentation, tan & wrinkles.",
-        "Fights acne."
-      ],
-      "ingredients": [
-        "Citrus Peels",
-        "Reetha",
-        "Aloevera",
-        "Neem",
-        "Turmeric",
-        "Coconut Based Surfactant",
-        "Gondkatira"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Hand Sanitizer",
-      "img" : "",
-      "benefits": [
-        "Makes hands germ-free.",
-        "Keeps hands soft & moisturized.",
-        "Cures skin-related diseases on hands.",
-        "Ideal for the whole family, including kids.",
-        "Eco-friendly."
-      ],
-      "ingredients": [
-        "Citrus Peels",
-        "Turmeric",
-        "Aloevera",
-        "Neem Bio Enzyme"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Body Wash",
-      "img" : "",
-      "benefits": [
-        "Protection from Germs.",
-        "Great on skin.",
-        "PH balance.",
-        "Nourishes and moisturizes skin.",
-        "Improves skin texture.",
-        "Soothes and calms the skin.",
-        "Suitable for all skin types."
-      ],
-      "ingredients": [
-        "Citrus",
-        "Neem",
-        "Haldi",
-        "Alovera Bio Enzymes",
-        "Multani Mitti",
-        "Natural Foaming Agent"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Facial Serum",
-      "img" : "",
-      "benefits": [
-        "Keeps skin bright.",
-        "Anti-wrinkle.",
-        "Natural antioxidant.",
-        "Reduces dark spots & pigmentation.",
-        "Plant-based amino blend.",
-        "Boosts collagen production.",
-        "Naturally lifts and firms skin.",
-        "Smoother, brighter, and healthier.",
-        "Youthful complexion.",
-        "Suitable for all skin types."
-      ],
-      "ingredients": [
-        "Citrus",
-        "Neem",
-        "Haldi",
-        "Alovera Bio Enzymes",
-        "Rice Water"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Shampoo",
-      "img" : "",
-      "benefits": [
-        "Makes hair shiny & silky.",
-        "Removes dandruff.",
-        "Makes hair thick & long.",
-        "Prevents hair fall.",
-        "Removes boils, pimples & wounds in the scalp."
-      ],
-      "ingredients": [
-        "Rosemary",
-        "Methidana",
-        "Reetha",
-        "Aloevera",
-        "Amla",
-        "Shikakai",
-        "Curry leaves",
-        "Hibiscus",
-        "Kalonji",
-        "Plant-based Surfactant",
-        "Multani Mitti"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Roll On",
-      "img" : "",
-      "benefits": [
-        "Fast pain relief.",
-        "On-the-go use.",
-        "Soothing & cooling.",
-        "Targeted application."
-      ],
-      "ingredients": [
-        "Clove",
-        "Ajwain",
-        "Kapoor",
-        "Mint"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Toilet Cleaner",
-      "img" : "",
-      "benefits": [
-        "Removes 99.9% of germs.",
-        "Skin-friendly.",
-        "Eco-friendly."
-      ],
-      "ingredients": [
-        "Neem",
-        "Soapnut",
-        "Citrus Fruit Skin",
-        "Gondkatira",
-        "Food Colour",
-        "Natural Citronella",
-        "Natural Coco Glucoside"
-      ],
-      "category":
-        " Homecare"
-       
-    },
-    {
-      "name": "Coco Soap",
-      "img" : "",
-      "benefits": [
-        "Healthy skin.",
-        "Safe for all.",
-        "Eco-friendly.",
-        "Papaya extract gently exfoliates to remove dead skin cells.",
-        "Coconut oil and Cocoglucoside deeply moisturize and nourish the skin."
-      ],
-      "ingredients": [
-        "Coconut oil",
-        "Cocoglucoside",
-        "Aloevera",
-        "Papaya extract"
-      ],
-      "category":
-        " Healthcare"
-       
-    },
-    {
-      "name": "Charcoal Soap",
-      "img" : "",
-      "benefits": [
-        "Healthy skin.",
-        "Safe for all.",
-        "Eco-friendly.",
-        "Papaya extract gently exfoliates to remove dead skin cells.",
-        "Coconut oil and Cocoglucoside deeply moisturize and nourish the skin."
-      ],
-      "ingredients": [
-        "Coconut oil",
-        "Cocoglucoside",
-        "Aloevera",
-        "Papaya extract"
-      ],
-      "category":
-        " Healthcare"
-       
-    }
-  ]
-}
+[
+  {
+    "name": "Detergent Coco Wash",
+    "benefits": [
+      "No Chemicals, Preservatives, or Artificial Fragrances.",
+      "Removes 99.9% of Pathogens.",
+      "Safe for Sensitive Skin.",
+      "Suitable for All Types of Clothes.",
+      "Safe for Us, Pets & Mother Earth.",
+      "Free of Sulfates, SLS, SLES, Dyes, Optical Brighteners, Parabens, Glycols, and phosphates.",
+      "Conserves Water.",
+      "Rejuvenates the Water Bodies"
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem & Soapnut Bio Enzyme",
+      "Naturally Derived Gum & Coconut Based Surfactant"
+    ],
+    "img": "",
+    "category": "homecare"
+  },
+  {
+    "name": "Face Wash",
+    "benefits": [
+      "It keeps brightness skin.",
+      "Gives golden glow to complexion.",
+      "Bleaches the face naturally.",
+      "Reduces pigmentation, tan & wrinkles.",
+      "It fights acne."
+    ],
+    "ingredients": [
+      "Citrus Peels",
+      "Reetha",
+      "Aloevera",
+      "Neem",
+      "Turmeric",
+      "Coconut Based Surfactant",
+      "Gondkatira"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Hand Sanitizer",
+    "benefits": [
+      "Make Germs Free Hand.",
+      "Keep Hands Soft & Moisturized.",
+      "It Cures skin related diseases in hands.",
+      "Ideal for whole family including kids.",
+      "Eco Friendly."
+    ],
+    "ingredients": [
+      "Citrus Peels",
+      "Turmeric",
+      "Aloevera",
+      "Neem Bio Enzyme"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Body Wash",
+    "benefits": [
+      "Protection from Germs.",
+      "Great on Skin.",
+      "PH Balance.",
+      "Nourished and Moisturized Skin.",
+      "Improved Skin Texture.",
+      "Soothes and Calms the Skin.",
+      "Suitable for All Skin Types."
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem",
+      "Haldi",
+      "Alovera Bio Enzymes",
+      "Multani Mitti",
+      "Natural Foaming Agent"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Facial Serum",
+    "benefits": [
+      "It keeps brightness skin.",
+      "Anti-wrinkle.",
+      "Natural antioxidant.",
+      "Reduced dark spot & pigmentation.",
+      "Plant based amino blend.",
+      "Boost collagen production.",
+      "Naturally lifts and firms your skin.",
+      "Smoother brighter and healthier.",
+      "Youthfull complexion.",
+      "Suitable for all skin types."
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem",
+      "Haldi",
+      "Alovera Bio Enzymes",
+      "Rice Water"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Shampoo",
+    "benefits": [
+      "Make hair Shiny & Silky.",
+      "Make Dandruff Free hair.",
+      "Make thick and Long hair.",
+      "Prevent Hair fall.",
+      "Removes boils, pimples & wond etc. in the scalp."
+    ],
+    "ingredients": [
+      "Rosemary",
+      "Methidana",
+      "Reetha",
+      "Aloevera",
+      "Aamla",
+      "Shikakai",
+      "Curry leaves",
+      "Hibiscus",
+      "Kalonji",
+      "Plant Based Surfactant",
+      "Multani Mitti"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Roll On",
+    "benefits": [
+      "Fast Pain Relief",
+      "On-the-Go Use",
+      "Soothing & Cooling",
+      "Targeted Application"
+    ],
+    "ingredients": [
+      "Clove",
+      "Ajwain",
+      "Kapoor",
+      "Mint"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "benefits": [
+      "Removes 99.9% germs",
+      "Skin friendly",
+      "Eco friendly"
+    ],
+    "ingredients": [
+      "Neem",
+      "Soapnut",
+      "Citrus Fruit Skin",
+      "Gondkatira",
+      "Food colour",
+      "Natural Citronella",
+      "Natural Coco Glucoside"
+    ],
+    "img": "",
+    "category": "homecare"
+  },
+  {
+    "name": "Coco Soap",
+    "benefits": [
+      "Healthy Skin",
+      "Safe for All",
+      "Eco-Friendly",
+      "Papaya Extract gently exfoliates to remove dead skin cells.",
+      "Coconut Oil and Cocoglucoside deeply moisturize and nourish the skin."
+    ],
+    "ingredients": [
+      "Coconut oil",
+      "Cocoglucaside",
+      "Alovera",
+      "Papaya extract"
+    ],
+    "img": "",
+    "category": "healthcare"
+  },
+  {
+    "name": "Charcoal Soap",
+    "benefits": [
+      "Healthy Skin",
+      "Safe for All",
+      "Eco-Friendly",
+      "Papaya Extract gently exfoliates to remove dead skin cells.",
+      "Coconut Oil and Cocoglucoside deeply moisturize and nourish the skin."
+    ],
+    "ingredients": [
+      "Coconut oil",
+      "Cocoglucaside",
+      "Alovera",
+      "Papaya extract"
+    ],
+    "img": "",
+    "category": "healthcare"
+  }
+]
