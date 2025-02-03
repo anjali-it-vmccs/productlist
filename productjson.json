@@ -1,242 +1,228 @@
 {
   "products": [
     {
-      "name": "Coco Bloom (Face Wash)",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Refresh and rejuvenate your skin with Coco Bloom Face Wash, enriched with the natural goodness of coconut water and botanical extracts. This gentle cleanser removes dirt, excess oil, and impurities, leaving your skin clean, hydrated, and radiant. Perfect for daily use, it promotes a glowing complexion while maintaining the skin's natural moisture balance.",
-      "ingredients": [
-        "Coconut Water",
-        "Aloe Vera",
-        "Green Tea Extract",
-        "Vitamin E",
-        "Mild Cleansers"
+      "name": "Detergent Coco Wash",
+      "img" : "",
+      "benefits": [
+        "No Chemicals, Preservatives, or Artificial Fragrances.",
+        "Removes 99.9% of Pathogens.",
+        "Safe for Sensitive Skin.",
+        "Suitable for All Types of Clothes.",
+        "Safe for Us, Pets & Mother Earth.",
+        "Free of Sulfates, SLS, SLES, Dyes, Optical Brighteners, Parabens, Glycols, and phosphates.",
+        "Conserves Water.",
+        "Rejuvenates the Water Bodies."
       ],
-      "benefits": [
-        "Deeply hydrates and nourishes the skin",
-        "Gently removes dirt and impurities",
-        "Reduces blemishes and soothes irritation",
-        "Leaves skin soft, smooth, and radiant"
-      ]
-    },
-    {
-      "name": "Coco Cleanse+ (Dish Wash)",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Power through greasy dishes with Coco Cleanse+, an eco-friendly dishwashing solution powered by natural coconut derivatives. Its advanced formula cuts through tough grease while being gentle on your hands and safe for the environment.",
-      "ingredients": ["Coconut Extracts", "Lemon Extract", "Mild Surfactants"],
-      "benefits": [
-        "Effectively removes grease and food residue",
-        "Gentle on hands, even with frequent use",
-        "Eco-friendly and biodegradable formula",
-        "Leaves dishes sparkling clean and fresh"
-      ]
-    },
-    {
-      "name": "Coco Safe (Floor Cleaner)",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Keep your home germ-free with Coco Safe Surface Disinfectant, powered by coconut-based cleansing agents and essential oils. It eliminates 99.9% of germs, bacteria, and viruses while leaving surfaces spotless and fragrant.",
-      "ingredients": ["Coconut Oil Derivatives", "Tea Tree Oil", "Ethanol"],
-      "benefits": [
-        "Eliminates 99.9% of germs, bacteria, and viruses",
-        "Safe for most surfaces, including wood, glass, and metal",
-        "Leaves a refreshing and clean fragrance",
-        "Non-toxic and safe for children and pets"
-      ]
-    },
-    {
-      "name": "Coco Sheen (Shampoo)",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco Sheen Shampoo is a luxurious, nourishing shampoo enriched with the goodness of coconut oil and natural extracts. It deeply cleanses the hair while restoring moisture, leaving your hair soft, shiny, and smooth. Ideal for all hair types, it helps to repair damaged hair, reduce frizz, and provide long-lasting hydration. Enjoy healthy, glossy hair with every wash. ",
-      "ingredients": ["Coconut Surfactants", "Citric Acid", "Eucalyptus Oil"],
-      "benefits": [
-        "Cleans tough stains and eliminates odors",
-        "Prevents limescale buildup",
-        "Eco-friendly and safe for septic systems",
-        "Leaves your toilet sparkling clean and fresh"
-      ]
-    },
-    {
-      "name": "Coco Vanquish (Toilet Cleaner)",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Tackle tough stains and odors with Coco Vanquish Toilet Cleaner, enriched with coconut-based cleaning agents for effective yet eco-friendly sanitation. It keeps your toilet hygienically clean and fresh with every use. ",
-      "ingredients": ["Coconut Surfactants", "Citric Acid", "Eucalyptus Oil"],
-      "benefits": [
-        "Cleans tough stains and eliminates odors",
-        "Prevents limescale buildup",
-        "Eco-friendly and safe for septic systems",
-        "Leaves your toilet sparkling clean and fresh"
-      ]
-    },
-    {
-      "name": "Coco Blossom (Body wash) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Indulge in the luxurious care of Coco Blossom Body Wash, infused with coconut milk and floral extracts. It gently cleanses, hydrates, and leaves your skin feeling soft, smooth, and delicately scented. ",
-      "ingredients": ["Coconut Milk ", "Rose Extract", "Shea Butter"],
-      "benefits": [
-        "Cleans tough stains and eliminates odors",
-        "Prevents limescale buildup",
-        "Eco-friendly and safe for septic systems",
-        "Leaves your toilet sparkling clean and fresh"
-      ]
-    },
-    {
-      "name": "Coco Bliss  (Face Serum ) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Achieve radiant, youthful skin with Coco Bliss Facial Serum, enriched with coconut oil and botanical actives. This lightweight serum absorbs quickly, improving skin elasticity, reducing fine lines, and restoring a healthy glow. ",
       "ingredients": [
-        "Coconut Oil ",
-        "Hyaluronic Acid ",
-        "Vitamin C",
-        "Green Tea Extract"
+        "Citrus",
+        "Neem",
+        "Soapnut Bio Enzyme",
+        "Naturally Derived Gum",
+        "Coconut Based Surfactant"
       ],
-      "benefits": [
-        "Hydrates and plumps the skin. ",
-
-        "Reduces the appearance of fine lines and wrinkles.",
-
-        "Brightens the complexion and fades dark spots. ",
-
-        "Promotes firm, youthful-looking skin. "
+      "category":[
+       " Homecare"
       ]
     },
     {
-      "name": "Coco Soft (Hand wash) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Pamper your hands with Coco Soft Hand Wash, enriched with the goodness of coconut oil. It gently cleanses while keeping your hands soft, moisturized, and fragrant after every wash. ",
-      "ingredients": ["Coconut Oil ", "Glycerin", "Lavender Essential Oil"],
+      "name": "Face Wash",
+      "img" : "",
       "benefits": [
-        "Keeps hands soft and moisturized.",
-
-        "Gently cleanses without drying.",
-
-        "Leaves a refreshing fragrance."
-      ]
-    },
-    {
-      "name": "Coco Elixir (Hair Oil) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Nourish and strengthen your hair with Coco Elixir Hair Oil, a blend of coconut oil and herbal extracts. It promotes hair growth, reduces hair fall, and provides deep hydration for lustrous, healthy locks. ",
+        "Keeps skin bright.",
+        "Gives golden glow to complexion.",
+        "Bleaches the face naturally.",
+        "Reduces pigmentation, tan & wrinkles.",
+        "Fights acne."
+      ],
       "ingredients": [
-        "Virgin Coconut Oil",
-        "Amla Extract",
-        "Fenugreek Seeds ",
-        "Hibiscus "
+        "Citrus Peels",
+        "Reetha",
+        "Aloevera",
+        "Neem",
+        "Turmeric",
+        "Coconut Based Surfactant",
+        "Gondkatira"
       ],
-      "benefits": [
-        "Strengthens and repairs damaged hair.",
-        "Reduces dandruff and prevents split ends.",
-        "Promotes thicker and healthier hair growth.",
-        "Adds shine and softness to hair."
-      ]
+      "category":[
+        " Healthcare"
+       ]
     },
     {
-      "name": "Coco श्री Sentry (Sanitizer) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco Sentry Hand Sanitizer is a quick-drying formula enriched with coconut extracts and natural essential oils. It kills 99.9% of germs while moisturizing your hands, leaving them feeling soft, fresh, and clean. Ideal for on-the-go sanitization, it’s gentle on the skin and free from harsh chemicals. ",
-      "ingredients": ["Coconut Oil", "Alcohol", "Aloe Vera", "Vitamin E "],
+      "name": "Hand Sanitizer",
+      "img" : "",
       "benefits": [
-        "Kills 99.9% of germs and bacteria.",
-
-        "Keeps hands moisturized and soft. ",
-
-        "No harsh chemicals; gentle on the skin. ",
-
-        "Convenient for on-the-go use. "
-      ]
-    },
-    {
-      "name": "Coco Ayurdent (Tooth Powder) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco Ayurdent Tooth Powder combines the goodness of coconut oil and natural herbs to create a refreshing oral care experience. This natural formula helps in whitening teeth, preventing plaque build-up, and promoting overall dental health, while also providing a fresh, clean feeling. ",
-      "ingredients": ["Coconut Oil", "Clove Powder ", "Neem Powder", "Salt "],
-      "benefits": [
-        "Whitens teeth naturally. ",
-
-        "Fights bacteria and promotes gum health. ",
-
-        "Prevents plaque build-up and bad breath. ",
-
-        "Made with 100% natural ingredients. "
-      ]
-    },
-    {
-      "name": "Coco Tranquil (Roll On) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco Tranquil Roll-On offers soothing relief with the calming power of coconut oil and essential oils. This roll-on provides a refreshing, stress-relieving experience that helps ease headaches, tension, and anxiety, allowing you to relax and unwind wherever you are. ",
+        "Makes hands germ-free.",
+        "Keeps hands soft & moisturized.",
+        "Cures skin-related diseases on hands.",
+        "Ideal for the whole family, including kids.",
+        "Eco-friendly."
+      ],
       "ingredients": [
-        "Coconut Oil",
-        "Lavender Oil ",
-        "Peppermint  Oil ",
-        "Eucalyptus Oil "
+        "Citrus Peels",
+        "Turmeric",
+        "Aloevera",
+        "Neem Bio Enzyme"
       ],
-      "benefits": [
-        "Eases headaches, stress, and tension. ",
-
-        "Provides a calming and relaxing effect. ",
-
-        "Refreshes and revitalizes. ",
-
-        "Convenient roll-on application for on-the-go relief. "
-      ]
+      "category":[
+        " Healthcare"
+       ]
     },
     {
-      "name": "Coco Bee  (Honey) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco Bee Honey is a pure, natural honey harvested from coconut flowers. It’s rich in antioxidants, vitamins, and minerals, making it a perfect addition to your daily diet. Enjoy its sweet, smooth taste while reaping its health benefits. ",
-      "ingredients": ["100% Pure Coconut Flower Honey "],
+      "name": "Body Wash",
+      "img" : "",
       "benefits": [
-        "Rich in antioxidants and nutrients. ",
-
-        "Boosts immunity and promotes overall health. ",
-
-        "Naturally sweet and smooth. ",
-
-        "Can be used in beverages, cooking, or as a spread. "
-      ]
-    },
-    {
-      "name": "Trope Cococ (Soap) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Trope Coco Soap is a luxurious soap made with coconut oil and tropical fruit extracts. This gentle soap hydrates and nourishes your skin, leaving it soft, smooth, and delicately fragranced. Its natural ingredients ensure a refreshing bath experience while keeping your skin healthy and moisturized.  ",
+        "Protection from Germs.",
+        "Great on skin.",
+        "PH balance.",
+        "Nourishes and moisturizes skin.",
+        "Improves skin texture.",
+        "Soothes and calms the skin.",
+        "Suitable for all skin types."
+      ],
       "ingredients": [
-        "Coconut Oil ",
-        "Mango Butter",
-        "Aloe Vera",
-        "Tropical Fruits Extract"
+        "Citrus",
+        "Neem",
+        "Haldi",
+        "Alovera Bio Enzymes",
+        "Multani Mitti",
+        "Natural Foaming Agent"
       ],
-      "benefits": [
-        "Gently cleanses and nourishes skin. ",
-
-        "Leaves skin soft, smooth, and hydrated. ",
-
-        "Contains natural ingredients for a safe bath. ",
-
-        "Fresh tropical fragrance for a rejuvenating experience. "
-      ]
+      "category":[
+        " Healthcare"
+       ]
     },
     {
-      "name": "Coco श्री  (Coconut Oil) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Coco श्री Coconut Oil is a premium, cold-pressed oil that retains the natural nutrients and goodness of coconut. This versatile oil can be used for cooking, skincare, and hair care. Its rich texture and nourishing properties make it ideal for moisturizing the skin, promoting hair growth, and boosting overall health. ",
-      "ingredients": ["100% Pure Cold-Pressed Coconut Oil"],
+      "name": "Facial Serum",
+      "img" : "",
       "benefits": [
-        "Deeply moisturizes and nourishes the skin. ",
-        "Promotes hair growth and reduces hair fall. ",
-        "Can be used for cooking and as a natural beauty product. ",
-        "Rich in vitamins, minerals, and healthy fats."
-      ]
+        "Keeps skin bright.",
+        "Anti-wrinkle.",
+        "Natural antioxidant.",
+        "Reduces dark spots & pigmentation.",
+        "Plant-based amino blend.",
+        "Boosts collagen production.",
+        "Naturally lifts and firms skin.",
+        "Smoother, brighter, and healthier.",
+        "Youthful complexion.",
+        "Suitable for all skin types."
+      ],
+      "ingredients": [
+        "Citrus",
+        "Neem",
+        "Haldi",
+        "Alovera Bio Enzymes",
+        "Rice Water"
+      ],
+      "category":[
+        " Healthcare"
+       ]
     },
     {
-      "name": "Coco श्री Wash (Liquid Detergent) ",
-      "img":"https://res.cloudinary.com/dsadsgkzg/image/upload/v1738231073/White_Brown_Minimalist_Face_Serum_Skincare_Beauty_Product_Instagram_Post_z6sjnt.png",
-      "description": "Say goodbye to tough stains with Coco Wash Detergent, powered by coconut-based surfactants for effective and eco-friendly cleaning. Its gentle formula is safe for fabrics and leaves clothes fresh and clean. ",
-      "ingredients": ["Coconut Derivatives", "Baking Soda", "Essential Oils"],
+      "name": "Shampoo",
+      "img" : "",
       "benefits": [
-        "Removes tough stains effectively. ",
-
-        "Safe for all fabrics, including delicate ones. ",
-
-        "Eco-friendly and gentle on skin. "
-      ]
+        "Makes hair shiny & silky.",
+        "Removes dandruff.",
+        "Makes hair thick & long.",
+        "Prevents hair fall.",
+        "Removes boils, pimples & wounds in the scalp."
+      ],
+      "ingredients": [
+        "Rosemary",
+        "Methidana",
+        "Reetha",
+        "Aloevera",
+        "Amla",
+        "Shikakai",
+        "Curry leaves",
+        "Hibiscus",
+        "Kalonji",
+        "Plant-based Surfactant",
+        "Multani Mitti"
+      ],
+      "category":[
+        " Healthcare"
+       ]
+    },
+    {
+      "name": "Roll On",
+      "img" : "",
+      "benefits": [
+        "Fast pain relief.",
+        "On-the-go use.",
+        "Soothing & cooling.",
+        "Targeted application."
+      ],
+      "ingredients": [
+        "Clove",
+        "Ajwain",
+        "Kapoor",
+        "Mint"
+      ],
+      "category":[
+        " Healthcare"
+       ]
+    },
+    {
+      "name": "Toilet Cleaner",
+      "img" : "",
+      "benefits": [
+        "Removes 99.9% of germs.",
+        "Skin-friendly.",
+        "Eco-friendly."
+      ],
+      "ingredients": [
+        "Neem",
+        "Soapnut",
+        "Citrus Fruit Skin",
+        "Gondkatira",
+        "Food Colour",
+        "Natural Citronella",
+        "Natural Coco Glucoside"
+      ],
+      "category":[
+        " Homecare"
+       ]
+    },
+    {
+      "name": "Coco Soap",
+      "img" : "",
+      "benefits": [
+        "Healthy skin.",
+        "Safe for all.",
+        "Eco-friendly.",
+        "Papaya extract gently exfoliates to remove dead skin cells.",
+        "Coconut oil and Cocoglucoside deeply moisturize and nourish the skin."
+      ],
+      "ingredients": [
+        "Coconut oil",
+        "Cocoglucoside",
+        "Aloevera",
+        "Papaya extract"
+      ],
+      "category":[
+        " Healthcare"
+       ]
+    },
+    {
+      "name": "Charcoal Soap",
+      "img" : "",
+      "benefits": [
+        "Healthy skin.",
+        "Safe for all.",
+        "Eco-friendly.",
+        "Papaya extract gently exfoliates to remove dead skin cells.",
+        "Coconut oil and Cocoglucoside deeply moisturize and nourish the skin."
+      ],
+      "ingredients": [
+        "Coconut oil",
+        "Cocoglucoside",
+        "Aloevera",
+        "Papaya extract"
+      ],
+      "category":[
+        " Healthcare"
+       ]
     }
   ]
 }
