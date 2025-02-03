@@ -17,7 +17,7 @@
       "Naturally Derived Gum & Coconut Based Surfactant"
     ],
     "img": "",
-    "category": "homecare"
+    "category": [["homecare"]]
   },
   {
     "name": "Face Wash",
@@ -38,7 +38,7 @@
       "Gondkatira"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": [["healthcare"]]
   },
   {
     "name": "Hand Sanitizer",
@@ -56,7 +56,7 @@
       "Neem Bio Enzyme"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Body Wash",
@@ -78,7 +78,7 @@
       "Natural Foaming Agent"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Facial Serum",
@@ -102,7 +102,7 @@
       "Rice Water"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Shampoo",
@@ -127,7 +127,7 @@
       "Multani Mitti"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Roll On",
@@ -144,7 +144,7 @@
       "Mint"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Toilet Cleaner",
@@ -163,7 +163,7 @@
       "Natural Coco Glucoside"
     ],
     "img": "",
-    "category": "homecare"
+    "category": ["homecare"]
   },
   {
     "name": "Coco Soap",
@@ -181,7 +181,7 @@
       "Papaya extract"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   },
   {
     "name": "Charcoal Soap",
@@ -199,6 +199,6 @@
       "Papaya extract"
     ],
     "img": "",
-    "category": "healthcare"
+    "category": ["healthcare"]
   }
 ]
